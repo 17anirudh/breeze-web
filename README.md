@@ -2,6 +2,8 @@
 
 <img src="./public/hero.webp" style="width: 400px" />
 
+![Artwork from Pinterest](https://pin.it/1BVmCptqK)
+
 ## Overview
 
 **Build Simple. See Every Step. Decide What Comes Next.**
