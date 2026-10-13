@@ -10,17 +10,25 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@mdx-js/loader": "^3.1.1",
+    "@next/mdx": "^16.4.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "@svgr/webpack": "^8.1.0",
+    "cn": "^0.4.0",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.4.2",
-    "@types/node": "^20",
+    "@biomejs/biome": "2.5.15",
+    "@tailwindcss/turbopack": "^4",
+    "@types/bun": "^1.4.3",
     "@types/react": "^19",
+    "@types/react-copy-to-clipboard": "^5.0.7",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
-    "typescript": "^5"
+    "tailwindcss": "^4",
+    "typescript": "^7.0.2"
   },
   "packageManager": "bun@1.4.0",
   "ignoreScripts": [
